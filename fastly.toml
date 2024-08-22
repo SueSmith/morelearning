@@ -6,6 +6,7 @@ description = "Fastly in Glitch"
 language = "javascript"
 manifest_version = 2
 name = "fastly-compute-starter"
+service_id = "TBDNojlrFUhOhpvgcLA8V6"
 
 [scripts]
   build = "npm run build"
